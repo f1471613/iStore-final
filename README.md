@@ -50,23 +50,21 @@ PowerApps: Utiliza Microsoft Power Apps como interfaz gráfica para el ingreso y
 7. User Access : Permite gestionar accesos según roles definidos en Azure, Power Apps y Power BI. Los usuarios reciben correos automáticos tras cada actualización, garantizando trazabilidad y comunicación.
 
 
-## 📸 Capturas de Pantalla
-
-### 1. Data Layer (Capa de Datos)
+## 1. Data Layer (Capa de Datos)
 
 Azure SQL: Base de datos en la nube donde se almacenan los datos procesados desde múltiples orígenes.
 ![Base de datos relacional](carpeta-img/BD-relacional.jpg)
 
-### 🔧 Aplicación en Power Apps
+## 🔧 Aplicación en Power Apps
 ![Power Apps](capturas/powerapps.png)
 
-### 🧩 Diseño del Data Factory
+## 🧩 Diseño del Data Factory
 ![Inicio - Bienvenida](carpeta-img/PPrincipal.jpg)
 
-### 🏢 Vista del Warehouse en Microsoft Fabric
+## 🏢 Vista del Warehouse en Microsoft Fabric
 ![Warehouse](capturas/fabric-warehouse.png)
 
-### 📈 Dashboard en Power BI
+## 📈 Dashboard en Power BI
 ![Power BI](capturas/powerbi-dashboard.png)
 
 ---
