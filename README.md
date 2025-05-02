@@ -67,6 +67,9 @@ Pantalla de Ventas
 Pantalla de Clientes
 ![Clientes](carpeta-img/PClientes.jpg)
 
+Pantalla de Sede
+![Sedes](carpeta-img/PSedes.jpg)
+
 ---
 
 ## ETL Layer (Capa de extracción, transformación y carga)
