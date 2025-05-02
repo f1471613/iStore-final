@@ -70,8 +70,11 @@ Pipeline: pl_update_table
 Notebook: NotificarExitoPipeline
 ![Notebook: NotificarExitoPipeline](carpeta-img/Notebook.jpg)
 
-## Vista del Warehouse en Microsoft Fabric
-![Warehouse](capturas/fabric-warehouse.png)
+## Data Warehouse Layer (Capa de almacén de datos)
+
+Vista del Data Warehouse en Microsoft Fabric
+![Warehouse](carpeta-img/DataWarehouse.jpg)
+
 
 ## Dashboard en Power BI
 ![Power BI](capturas/powerbi-dashboard.png)
