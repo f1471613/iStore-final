@@ -1,5 +1,9 @@
 # iStore-final (Building Cloud Business Applications)
-Es una solución de negocio utilizando tecnologías cloud, como Microsoft Fabric Warehouse, Fabric Data Factory y Azure SQL, aplicaciones low code utilizando tecnologías de Microsoft Power Apps y tableros de datos utilizando herramientas de inteligencia de negocios de autoservicio como Microsoft Power BI.
+El presente proyecto tiene como objetivo implementar una arquitectura moderna de datos para la empresa iStore, permitiendo una gestión eficiente, automatizada y escalable de la información proveniente de diversas fuentes internas.
+
+Esta arquitectura está diseñada para centralizar los datos operativos y analíticos, optimizar su procesamiento mediante herramientas de ETL, y ofrecer acceso flexible y seguro a través de interfaces como Power BI, Excel y PowerApps.
+
+Se emplean tecnologías en la nube como Azure SQL y Microsoft Fabric, permitiendo a iStore una solución robusta, integrada y lista para el análisis avanzado y la toma de decisiones en tiempo real.
 
 # 🌐 Solución de Negocio Cloud con Microsoft Fabric, Power Platform y Power BI
 
