@@ -61,9 +61,9 @@ Pantalla de bienvenida
 Pantalla de Ventas
 ![Ventas](carpeta-img/PVentas.jpg)
 
-## Diseño del Data Factory
+## ETL Layer (Capa de extracción, transformación y carga)
 
-![Inicio - Bienvenida](carpeta-img/PPrincipal.jpg)
+![Pipeline: pl-update-table](carpeta-img/Pipeline.jpg)
 
 ## Vista del Warehouse en Microsoft Fabric
 ![Warehouse](capturas/fabric-warehouse.png)
