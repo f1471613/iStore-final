@@ -33,6 +33,24 @@ Este proyecto implementa una solución de negocio moderna utilizando:
 
 ![Diagrama de la Arquitectura del Proyecto](carpeta-img/Diagrama-arquitectura.png)
 
+1. Data Sources
+Los datos provienen de archivos Excel y de un sistema de escritorio con estructura propia. Ambos se integran inicialmente a través de procesos manuales o semi-automatizados.
+
+2. Data Layer
+Azure SQL: Centraliza la información recopilada en una base de datos relacional en Azure SQL, permitiendo un almacenamiento seguro y estructurado en la nube. También registra datos desde PowerApps.
+
+3. Application Layer
+PowerApps: Utiliza Microsoft Power Apps como interfaz gráfica para el ingreso y edición de datos, directamente conectada al entorno de Azure.
+
+4. ETL Layer: Implementada con Pipelines y Dataflows de Microsoft Fabric, automatiza el flujo de datos hacia el Data Warehouse, e incorpora Notebooks en Python para validación y notificación por correo.
+
+5. Data Warehouse Layer: Almacena los datos ya transformados en un Fabric Data Warehouse, optimizado para análisis avanzado y consolidación de información.
+
+6. Presentation Layer: Brinda acceso a reportes interactivos mediante Power BI Service y en Excel, facilitando la toma de decisiones basada en datos.
+
+7. User Access
+Icono de usuario final: Gestiona los permisos de visualización y edición a través de roles definidos en Azure, Power Apps y Power BI. Además, los usuarios reciben correos de confirmación generados por Notebooks en Python, asegurando trazabilidad y comunicación efectiva al finalizar las actualizaciones de datos.
+
 
 ## 📸 Capturas de Pantalla
 
