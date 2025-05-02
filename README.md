@@ -71,7 +71,7 @@ Pantalla de Clientes
 
 ## ETL Layer (Capa de extracción, transformación y carga)
 
-Pipeline: pl_update_table
+El pipeline llamado "pl_update_table" se ejecuta todos los días a las 6:00 a.m.
 ![Pipeline: pl-update-table](carpeta-img/Pipeline.jpg)
 
 
