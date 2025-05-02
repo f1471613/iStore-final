@@ -33,7 +33,7 @@ Este proyecto implementa una solución de negocio moderna utilizando:
 
 ---
 
-## 🚀 Diagrama de arquitectura del proyecto
+## 🚀 Diagrama de la arquitectura del proyecto
 
 ![Diagrama de la Arquitectura del Proyecto](carpeta-img/Diagrama-arquitectura.png)
 
