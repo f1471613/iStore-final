@@ -14,6 +14,7 @@ Este proyecto implementa una solución de negocio moderna utilizando:
 
 ## 🚀 Diagrama de arquitectura del proyecto
 
+![Diagrama del sistema](carpeta-img/diagrama-arquitectura.png)
 
 
 ## 📸 Capturas de Pantalla
