@@ -36,6 +36,8 @@ Este proyecto implementa una solución de negocio moderna utilizando:
 
 ## 📸 Capturas de Pantalla
 
+### Data Layer (Capa de Datos)
+
 ### 🔧 Aplicación en Power Apps
 ![Power Apps](capturas/powerapps.png)
 
