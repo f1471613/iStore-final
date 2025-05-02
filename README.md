@@ -38,6 +38,7 @@ Este proyecto implementa una solución de negocio moderna utilizando:
 
 ### Data Layer (Capa de Datos)
 
+Azure SQL: Base de datos en la nube donde se almacenan los datos procesados desde múltiples orígenes.
 ![Base de datos relacional](carpeta-img/BD-relacional.jpg)
 
 ### 🔧 Aplicación en Power Apps
