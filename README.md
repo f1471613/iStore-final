@@ -1,4 +1,4 @@
-# iStore-final (Building Cloud Business Applications)
+# Building Cloud Business Applications for iStore
 
 📌 Descripción General del Proyecto - Arquitectura de Datos para iStore
 
