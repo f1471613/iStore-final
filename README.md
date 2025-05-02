@@ -67,8 +67,11 @@ Pantalla de Ventas
 Pantalla de Clientes
 ![Clientes](carpeta-img/PClientes.jpg)
 
-Pantalla de Sede
+Pantalla de Sedes
 ![Sedes](carpeta-img/PSedes.jpg)
+
+Pantalla de Metodo de Pago
+![PMetodoPago](carpeta-img/PMetodoPago.jpg)
 
 ---
 
