@@ -12,6 +12,9 @@ Este proyecto implementa una solución de negocio moderna utilizando:
 
 ---
 
+## 🚀 Diagrama de arquitectura del proyecto
+
+
 ## 📸 Capturas de Pantalla
 
 ### 🔧 Aplicación en Power Apps
@@ -28,7 +31,5 @@ Este proyecto implementa una solución de negocio moderna utilizando:
 
 ---
 
-## 🚀 Arquitectura General
-
-```plaintext
-Usuarios -> Power Apps -> Azure SQL / Data Factory -> Fabric Warehouse -> Power BI
+# Conclución
+Esta solución demuestra cómo integrar plataformas Microsoft para crear sistemas empresariales escalables, accesibles y potentes, con bajo tiempo de desarrollo y alta eficiencia operativa.
