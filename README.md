@@ -44,7 +44,7 @@ Este proyecto implementa una solución de negocio moderna utilizando:
 ![Power Apps](capturas/powerapps.png)
 
 ### 🧩 Diseño del Data Factory
-![Inicio - Bienvenida](carpeta-img/Principal.jpg)
+![Inicio - Bienvenida](carpeta-img/PPrincipal.jpg)
 
 ### 🏢 Vista del Warehouse en Microsoft Fabric
 ![Warehouse](capturas/fabric-warehouse.png)
