@@ -47,8 +47,7 @@ PowerApps: Utiliza Microsoft Power Apps como interfaz gráfica para el ingreso y
 
 6. Presentation Layer: Brinda acceso a reportes interactivos mediante Power BI Service y en Excel, facilitando la toma de decisiones basada en datos.
 
-7. User Access
-Icono de usuario final: Gestiona los permisos de visualización y edición a través de roles definidos en Azure, Power Apps y Power BI. Además, los usuarios reciben correos de confirmación generados por Notebooks en Python, asegurando trazabilidad y comunicación efectiva al finalizar las actualizaciones de datos.
+7. User Access : Permite gestionar accesos según roles definidos en Azure, Power Apps y Power BI. Los usuarios reciben correos automáticos tras cada actualización, garantizando trazabilidad y comunicación.
 
 
 ## 📸 Capturas de Pantalla
