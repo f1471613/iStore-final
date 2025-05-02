@@ -63,7 +63,12 @@ Pantalla de Ventas
 
 ## ETL Layer (Capa de extracción, transformación y carga)
 
+Pipeline: pl_update_table
 ![Pipeline: pl-update-table](carpeta-img/Pipeline.jpg)
+
+
+Notebook: NotificarExitoPipeline
+![Notebook: NotificarExitoPipeline](carpeta-img/Notebook.jpg)
 
 ## Vista del Warehouse en Microsoft Fabric
 ![Warehouse](capturas/fabric-warehouse.png)
