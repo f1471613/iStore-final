@@ -11,15 +11,15 @@ Se emplean tecnologías en la nube como Azure SQL y Microsoft Fabric, permitiend
 
 🎯 Objetivos Principales
 
-Centralizar datos de diversas fuentes (Excel, SQL).
+- Centralizar datos de diversas fuentes (Excel, SQL).
 
-Automatizar flujos ETL con Microsoft Fabric.
+- Automatizar flujos ETL con Microsoft Fabric.
 
-Integrar PowerApps como capa de entrada y edición de datos.
+- Integrar PowerApps como capa de entrada y edición de datos.
 
-Consolidar un Data Warehouse para reportes confiables.
+- Consolidar un Data Warehouse para reportes confiables.
 
-Facilitar el análisis con Power BI y distribución por correo.
+- Facilitar el análisis con Power BI y distribución por correo.
 
 
 # 🌐 Solución de Negocio Cloud con Microsoft Fabric, Power Platform y Power BI
