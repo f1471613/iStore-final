@@ -33,8 +33,7 @@ Este proyecto implementa una solución de negocio moderna utilizando:
 
 ![Diagrama de la Arquitectura del Proyecto](carpeta-img/Diagrama-arquitectura.png)
 
-1. Data Sources
-Los datos provienen de archivos Excel y de un sistema de escritorio con estructura propia. Ambos se integran inicialmente a través de procesos manuales o semi-automatizados.
+1. Data Sources: Los datos provienen de archivos Excel y de un sistema de escritorio con estructura propia. Ambos se integran inicialmente a través de procesos manuales o semi-automatizados.
 
 2. Data Layer
 Azure SQL: Centraliza la información recopilada en una base de datos relacional en Azure SQL, permitiendo un almacenamiento seguro y estructurado en la nube. También registra datos desde PowerApps.
