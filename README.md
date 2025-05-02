@@ -15,6 +15,7 @@ Este proyecto implementa una solución de negocio moderna utilizando:
 ## 🚀 Diagrama de arquitectura del proyecto
 
 
+
 ## 📸 Capturas de Pantalla
 
 ### 🔧 Aplicación en Power Apps
