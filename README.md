@@ -47,6 +47,7 @@ Este proyecto implementa una solución de negocio moderna utilizando:
 
 7. User Access : Permite gestionar accesos según roles definidos en Azure, Power Apps y Power BI. Los usuarios reciben correos automáticos tras cada actualización, garantizando trazabilidad y comunicación.
 
+---
 
 ## Data Layer (Capa de Datos)
 
