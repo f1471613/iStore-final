@@ -35,11 +35,9 @@ Este proyecto implementa una solución de negocio moderna utilizando:
 
 1. Data Sources: Los datos provienen de archivos Excel y de un sistema de escritorio con estructura propia. Ambos se integran inicialmente a través de procesos manuales o semi-automatizados.
 
-2. Data Layer
-Azure SQL: Centraliza la información recopilada en una base de datos relacional en Azure SQL, permitiendo un almacenamiento seguro y estructurado en la nube. También registra datos desde PowerApps.
+2. Data Layer: Centraliza la información recopilada en una base de datos relacional en Azure SQL, permitiendo un almacenamiento seguro y estructurado en la nube. También registra datos desde PowerApps.
 
-3. Application Layer
-PowerApps: Utiliza Microsoft Power Apps como interfaz gráfica para el ingreso y edición de datos, directamente conectada al entorno de Azure.
+3. Application Layer: Utiliza Microsoft Power Apps como interfaz gráfica para el ingreso y edición de datos, directamente conectada al entorno de Azure.
 
 4. ETL Layer: Implementada con Pipelines y Dataflows de Microsoft Fabric, automatiza el flujo de datos hacia el Data Warehouse, e incorpora Notebooks en Python para validación y notificación por correo.
 
@@ -55,10 +53,12 @@ PowerApps: Utiliza Microsoft Power Apps como interfaz gráfica para el ingreso y
 Azure SQL: Base de datos en la nube donde se almacenan los datos procesados desde múltiples orígenes.
 ![Base de datos relacional](carpeta-img/BD-relacional.jpg)
 
-## Aplicación en Power Apps
-![Power Apps](capturas/powerapps.png)
+## Application Layer (Capa de aplicación)
+
+![Inicio - Bienvenida](carpeta-img/PPrincipal.jpg)
 
 ## Diseño del Data Factory
+
 ![Inicio - Bienvenida](carpeta-img/PPrincipal.jpg)
 
 ## Vista del Warehouse en Microsoft Fabric
