@@ -55,7 +55,11 @@ Azure SQL: Base de datos en la nube donde se almacenan los datos procesados desd
 
 ## Application Layer (Capa de aplicación)
 
+Pantalla de bienvenida
 ![Inicio - Bienvenida](carpeta-img/PPrincipal.jpg)
+
+Pantalla de Ventas
+![Ventas](carpeta-img/PVentas.jpg)
 
 ## Diseño del Data Factory
 
