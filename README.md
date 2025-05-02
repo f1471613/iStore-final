@@ -78,6 +78,11 @@ Pipeline: pl_update_table
 Notebook: NotificarExitoPipeline
 ![Notebook: NotificarExitoPipeline](carpeta-img/Notebook.jpg)
 
+
+Correo electrónico de notificación del éxito del pipeline
+![Notebook: NotificarExitoPipeline](carpeta-img/Correo.jpg)
+
+
 ---
 
 ## Data Warehouse Layer (Capa de almacén de datos)
