@@ -54,6 +54,8 @@ Este proyecto implementa una solución de negocio moderna utilizando:
 Azure SQL: Base de datos en la nube donde se almacenan los datos procesados desde múltiples orígenes.
 ![Base de datos relacional](carpeta-img/BD-relacional.jpg)
 
+---
+
 ## Application Layer (Capa de aplicación)
 
 Pantalla de bienvenida
@@ -61,6 +63,8 @@ Pantalla de bienvenida
 
 Pantalla de Ventas
 ![Ventas](carpeta-img/PVentas.jpg)
+
+---
 
 ## ETL Layer (Capa de extracción, transformación y carga)
 
@@ -71,14 +75,33 @@ Pipeline: pl_update_table
 Notebook: NotificarExitoPipeline
 ![Notebook: NotificarExitoPipeline](carpeta-img/Notebook.jpg)
 
+---
+
 ## Data Warehouse Layer (Capa de almacén de datos)
 
 Vista del Data Warehouse en Microsoft Fabric
 ![Warehouse](carpeta-img/DataWarehouse.jpg)
 
+---
 
-## Dashboard en Power BI
-![Power BI](capturas/powerbi-dashboard.png)
+## Presentation Layer (Capa de presentación)
+
+Reportes con Microsoft Power BI Service.
+
+Informe 1
+![Power BI](carpeta-img/informe1.jpg)
+
+Informe 2
+![Power BI](carpeta-img/informe2.jpg)
+
+Informe 3
+![Power BI](carpeta-img/informe3.jpg)
+
+Informe 4
+![Power BI](carpeta-img/informe4.jpg)
+
+Informe 5
+![Power BI](carpeta-img/informe5.jpg)
 
 ---
 
