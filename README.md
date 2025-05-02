@@ -38,6 +38,8 @@ Este proyecto implementa una solución de negocio moderna utilizando:
 
 ### Data Layer (Capa de Datos)
 
+![Base de datos relacional](carpeta-img/BD-relacional.jpg)
+
 ### 🔧 Aplicación en Power Apps
 ![Power Apps](capturas/powerapps.png)
 
