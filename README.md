@@ -1,13 +1,16 @@
 # iStore-final (Building Cloud Business Applications)
 
 📌 Descripción General del Proyecto - Arquitectura de Datos para iStore
+
 El presente proyecto tiene como objetivo implementar una arquitectura moderna de datos para la empresa iStore, permitiendo una gestión eficiente, automatizada y escalable de la información proveniente de diversas fuentes internas.
 
 Esta arquitectura está diseñada para centralizar los datos operativos y analíticos, optimizar su procesamiento mediante herramientas de ETL, y ofrecer acceso flexible y seguro a través de interfaces como Power BI, Excel y PowerApps.
 
 Se emplean tecnologías en la nube como Azure SQL y Microsoft Fabric, permitiendo a iStore una solución robusta, integrada y lista para el análisis avanzado y la toma de decisiones en tiempo real.
 
+
 🎯 Objetivos Principales
+
 Centralizar datos de diversas fuentes (Excel, SQL).
 
 Automatizar flujos ETL con Microsoft Fabric.
