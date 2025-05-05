@@ -122,7 +122,7 @@ Registrar y visualizar las ventas realizadas, incluyendo el detalle del proceso 
 
 - Gestión del valor del equipo entregado (buyback), cálculo automático del precio final.
 
-- Soporte para ventas tradicionales y con canje de equipo (bit de buyback).
+- Soporte para ventas tradicionales y con canje de equipo (buyback).
 
 - Botones de guardar, editar, eliminar y crear nueva venta.
 
