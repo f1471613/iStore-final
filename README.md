@@ -31,7 +31,7 @@ Este proyecto implementa una solución de negocio moderna utilizando:
 
 ## 🚀 Diagrama de la arquitectura del proyecto
 
-![Diagrama de la Arquitectura del Proyecto](carpeta-img/Diagrama-arquitectura.png)
+![Diagrama de la Arquitectura del Proyecto](carpeta-img/Diagrama.jpg)
 
 1. Data Sources: Los datos provienen de archivos Excel y de un sistema de escritorio con estructura propia. Ambos se integran inicialmente a través de procesos manuales o semi-automatizados.
 
