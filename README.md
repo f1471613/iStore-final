@@ -240,7 +240,7 @@ Al finalizar el pipeline, se ejecuta un Notebook desarrollado en Python. Este sc
 
 #### 4. Seguridad y Automatización
 
-Todo el proceso está diseñado para ejecutarse de forma automatizada y segura, utilizando credenciales protegidas y programaciones (triggers) que aseguran su ejecución diaria o bajo demanda, reduciendo la intervención manual y errores operativos.
+Todo el proceso está diseñado para ejecutarse de forma automatizada y segura, utilizando credenciales protegidas y programaciones que aseguran su ejecución diaria o bajo demanda, reduciendo la intervención manual y errores operativos.
 
 
 El pipeline llamado "pl_update_table" se ejecuta todos los días a las 6:00 a.m.
