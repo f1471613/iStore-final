@@ -51,7 +51,7 @@ Este proyecto implementa una solución de negocio moderna utilizando:
 
 ## Data Layer (Capa de Datos)
 
-Descripción de la Base de Datos – Proyecto iStore
+#### Descripción de la Base de Datos - Proyecto iStore
 
 La base de datos del sistema de ventas de iStore ha sido diseñada para gestionar de forma eficiente las operaciones relacionadas con la comercialización de dispositivos Apple, incluyendo el modelo de negocio tipo buyback, donde los clientes pueden entregar su equipo usado como parte de pago en todas nuestras sedes.
 
