@@ -128,7 +128,21 @@ Registrar y visualizar las ventas realizadas, incluyendo el detalle del proceso 
 
 ![Ventas](carpeta-img/PVentas.jpg)
 
-Pantalla de Clientes
+### Pantalla de Clientes
+
+#### Propósito: 
+
+Administrar el registro de clientes que realizan compras.
+
+#### Funcionalidades:
+
+- Tabla para visualizar la lista de clientes registrados.
+
+- Formulario para ingresar datos personales: documento, nombre, apellidos, contacto, correo, fecha de nacimiento, suscripción.
+
+- Cuadro de búsqueda por nombre o número de documento.
+  
+- Botones de guardar, editar, eliminar y crear nuevo cliente.
 
 ![Clientes](carpeta-img/PClientes.jpg)
 
