@@ -151,9 +151,26 @@ Administrar el registro de clientes que realizan compras.
 
 ![Clientes](carpeta-img/PClientes.jpg)
 
-Pantalla de Sedes
+### Pantalla de Sedes
+
+#### Propósito: 
+
+Gestionar la información de las tiendas físicas de iStore.
+
+#### Funcionalidades:
+
+- Visualización en tabla de todas las sedes.
+
+- Formulario para agregar, editar o eliminar sedes.
+
+- Campos: nombre, ubicación, departamento, fecha de apertura, estado (activo/inactivo).
+
+- Cuadro de búsqueda para filtrar por nombre o ubicación.
+
+- También cuenta con un botón de Inicio (Home) que permite al usuario regresar fácilmente a la pantalla principal.
 
 ![Sedes](carpeta-img/PSedes.jpg)
+
 
 Pantalla de Metodo de Pago
 
