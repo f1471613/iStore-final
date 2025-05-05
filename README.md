@@ -110,9 +110,11 @@ Servir como punto de entrada principal para los usuarios, centralizando el acces
 
 ### Pantalla de Ventas
 
-Propósito: Registrar y visualizar las ventas realizadas, incluyendo el detalle del proceso de buyback.
+#### Propósito: 
 
-Funcionalidades:
+Registrar y visualizar las ventas realizadas, incluyendo el detalle del proceso de buyback.
+
+#### Funcionalidades:
 
 - Generación automática del ID de venta con formato estructurado (ej. F002-00001).
 
