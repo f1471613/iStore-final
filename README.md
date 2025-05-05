@@ -94,6 +94,7 @@ Pantalla de Inicio/Bienvenida
 ![Inicio - Bienvenida](carpeta-img/PPrincipal.jpg)
 
 Propósito:
+
 Servir como punto de entrada principal para los usuarios, centralizando el acceso a todas las funcionalidades del sistema mediante una interfaz clara, visual y fácil de usar.
 
 Funcionalidades:
