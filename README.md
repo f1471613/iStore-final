@@ -222,21 +222,21 @@ Microsoft Fabric Data Factory se encarga de la orquestación del flujo ETL (Extr
 
 El pipeline ejecuta los siguientes pasos:
 
-Extracción: Obtiene datos desde tablas transaccionales del sistema (Ventas, Clientes, Modelo, etc.).
+- Extracción: Obtiene datos desde tablas transaccionales del sistema (Ventas, Clientes, Modelo, etc.).
 
-Transformación: Realiza limpieza, estandarización y enriquecimiento de los datos mediante Dataflows.
+- Transformación: Realiza limpieza, estandarización y enriquecimiento de los datos mediante Dataflows.
 
-Carga: Inserta los datos transformados en el Fabric Data Warehouse, donde se modelan para su análisis.
+- Carga: Inserta los datos transformados en el Fabric Data Warehouse, donde se modelan para su análisis.
 
 #### 3. Notebooks con Python (Automatización y Comunicación)
 
 Al finalizar el pipeline, se ejecuta un Notebook desarrollado en Python. Este script tiene como propósito:
 
-Enviar correos electrónicos de confirmación a los usuarios o administradores.
+- Enviar correos electrónicos de confirmación a los usuarios o administradores.
 
-Confirmar el éxito del proceso ETL o notificar errores si los hubiera.
+- Confirmar el éxito del proceso ETL o notificar errores si los hubiera.
 
-Garantizar trazabilidad, comunicación efectiva y transparencia en las actualizaciones de datos.
+- Garantizar trazabilidad, comunicación efectiva y transparencia en las actualizaciones de datos.
 
 #### 4. Seguridad y Automatización
 
