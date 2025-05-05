@@ -264,9 +264,11 @@ Correo electrónico de notificación del éxito del pipeline
 
 ### Descripción General
 
-Esta capa representa el núcleo estructurado del sistema analítico, donde se consolida, transforma y organiza toda la información proveniente de la capa de ETL (implementada mediante Pipelines y Dataflows). Una vez que los datos han sido depurados y validados, son cargados automáticamente en el Data Warehouse implementado con Azure SQL Database, lo que garantiza alta disponibilidad, consistencia y seguridad.
+Esta capa constituye el centro estructurado del sistema analítico y recibe los datos procesados desde la capa de ETL mediante Pipelines y Dataflows. Una vez integrados, los datos se almacenan en Azure SQL Database, donde son normalizados y organizados para facilitar su consulta, análisis y visualización.
 
-En esta capa no solo se almacenan las tablas maestras y transaccionales (como clientes, ventas, modelos, sedes y buybacks), sino que también se crean medidas, agregaciones y relaciones clave que habilitan análisis avanzados, generación de indicadores y visualizaciones en Power BI. Además, su diseño relacional optimizado permite trazabilidad completa de cada operación comercial y soporte eficiente para la toma de decisiones estratégicas, reduciendo la redundancia y asegurando integridad referencial.
+Dentro de esta capa se construyen las medidas calculadas, relaciones entre tablas clave (como ventas, clientes, modelos y buybacks) y se incorporan dimensiones fundamentales para el análisis empresarial. Destaca la implementación de una tabla calendario, esencial para habilitar análisis temporales precisos (por día, mes, trimestre, año), comparar periodos, y facilitar la segmentación dinámica de datos en Power BI. Esta estructura temporal permite un control detallado de la evolución de ventas, comportamiento del cliente y rendimiento por sede.
+
+Gracias a este diseño optimizado, el Data Warehouse no solo ofrece una base sólida para la inteligencia de negocios, sino que también garantiza escalabilidad, trazabilidad y eficiencia operativa.
 
 Vista del Data Warehouse en Microsoft Fabric
 
