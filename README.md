@@ -93,21 +93,19 @@ Azure SQL: Base de datos en la nube donde se almacenan los datos procesados desd
 
 ![Inicio - Bienvenida](carpeta-img/PPrincipal.jpg)
 
-Propósito:
+#### Propósito:
 
 Servir como punto de entrada principal para los usuarios, centralizando el acceso a todas las funcionalidades del sistema mediante una interfaz clara, visual y fácil de usar.
 
-Funcionalidades:
+#### Funcionalidades:
 
-Presentación visual con logotipo de la empresa o nombre de la aplicación.
+- Presentación visual con logotipo de la empresa o nombre de la aplicación.
 
-Contenedor con botones o íconos de navegación para acceder a cada una de las pantallas del sistema:
+- Contenedor con botones o íconos de navegación para acceder a cada una de las pantallas del sistema:🛒 Ventas  👤 Cliente   🏬 Sede   📱 Modelo   🔁 Buyback   💳 Método de Pago
 
-🛒 Ventas  👤 Cliente   🏬 Sede   📱 Modelo   🔁 Buyback   💳 Método de Pago
+- Diseño responsive y moderno, con botones representados por íconos e imágenes que mejoran la experiencia de usuario.
 
-Diseño responsive y moderno, con botones representados por íconos e imágenes que mejoran la experiencia de usuario.
-
-Estructura centralizada para mantener la usabilidad y consistencia en la navegación.
+- Estructura centralizada para mantener la usabilidad y consistencia en la navegación.
 
 
 
