@@ -73,6 +73,9 @@ Pantalla de Sedes
 Pantalla de Metodo de Pago
 ![PMetodoPago](carpeta-img/PMetodoPago.jpg)
 
+Pantalla de Buyback
+![PBuyback](carpeta-img/Buyback.jpg)
+
 ---
 
 ## ETL Layer (Capa de extracción, transformación y carga)
