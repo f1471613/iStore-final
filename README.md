@@ -172,11 +172,37 @@ Gestionar la información de las tiendas físicas de iStore.
 ![Sedes](carpeta-img/PSedes.jpg)
 
 
-Pantalla de Metodo de Pago
+### Pantalla de Metodo de Pago
+
+#### Propósito: 
+
+Gestionar los métodos de pago que se ofrecen a los clientes.
+
+#### Funcionalidades:
+
+- Visualización y mantenimiento de métodos de pago disponibles.
+
+- Permite agregar nuevos métodos y editar los existentes.
+
+- También cuenta con un botón de Inicio (Home) que permite al usuario regresar fácilmente a la pantalla principal.
 
 ![PMetodoPago](carpeta-img/PMetodoPago.jpg)
 
-Pantalla de Buyback
+### Pantalla de Buyback
+
+#### Propósito: 
+
+Administrar los equipos usados entregados por los clientes como parte de pago.
+
+#### Funcionalidades:
+
+- Registro de cada equipo entregado con su estado y valor asignado.
+
+- Asociación con el modelo entregado.
+
+- Tabla y formulario para búsqueda, edición y gestión de registros.
+
+- También cuenta con un botón de Inicio (Home) que permite al usuario regresar fácilmente a la pantalla principal.
 
 ![PBuyback](carpeta-img/Buyback.jpg)
 
