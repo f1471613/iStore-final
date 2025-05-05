@@ -262,6 +262,12 @@ Correo electrónico de notificación del éxito del pipeline
 
 ## Data Warehouse Layer (Capa de almacén de datos)
 
+### Descripción General
+
+Esta capa representa el núcleo estructurado del sistema analítico, donde se consolida, transforma y organiza toda la información proveniente de la capa de ETL (implementada mediante Pipelines y Dataflows). Una vez que los datos han sido depurados y validados, son cargados automáticamente en el Data Warehouse implementado con Azure SQL Database, lo que garantiza alta disponibilidad, consistencia y seguridad.
+
+En esta capa no solo se almacenan las tablas maestras y transaccionales (como clientes, ventas, modelos, sedes y buybacks), sino que también se crean medidas, agregaciones y relaciones clave que habilitan análisis avanzados, generación de indicadores y visualizaciones en Power BI. Además, su diseño relacional optimizado permite trazabilidad completa de cada operación comercial y soporte eficiente para la toma de decisiones estratégicas, reduciendo la redundancia y asegurando integridad referencial.
+
 Vista del Data Warehouse en Microsoft Fabric
 
 ![Warehouse](carpeta-img/DataWarehouse.jpg)
