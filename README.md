@@ -123,4 +123,20 @@ Informe 5
 ---
 
 # Conclución
-Esta solución demuestra cómo integrar plataformas Microsoft para crear sistemas empresariales escalables, accesibles y potentes, con bajo tiempo de desarrollo y alta eficiencia operativa.
+Este proyecto evidencia el poder de integrar el ecosistema Microsoft —incluyendo Power Apps, Azure SQL, Microsoft Fabric y Power BI— para construir una solución empresarial robusta, escalable y centrada en el usuario. La arquitectura desarrollada no solo optimiza el flujo de datos y la toma de decisiones, sino que también reduce significativamente los tiempos de desarrollo, mejora la trazabilidad y garantiza una operación eficiente con una experiencia de usuario intuitiva y segura.
+
+Además, permite:
+
+✅ Centralizar y gobernar datos de múltiples orígenes en un entorno confiable y accesible.
+
+✅ Automatizar procesos ETL mediante pipelines y notebooks en Fabric, asegurando precisión y agilidad.
+
+✅ Notificar a los usuarios con correos automáticos que refuerzan la trazabilidad y el control operativo.
+
+✅ Facilitar el ingreso de datos con Power Apps, eliminando barreras técnicas para los usuarios finales.
+
+✅ Visualizar y analizar la información con Power BI y Excel, promoviendo la inteligencia de negocio en todos los niveles.
+
+✅ Proteger el acceso a la información, gracias a la gestión de roles y permisos definidos en Azure.
+
+En conjunto, esta solución representa un modelo eficaz de transformación digital con herramientas Microsoft, alineado con los objetivos de eficiencia, crecimiento y experiencia de usuario que exige el entorno empresarial actual.
