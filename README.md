@@ -210,6 +210,39 @@ Administrar los equipos usados entregados por los clientes como parte de pago.
 
 ## ETL Layer (Capa de extracción, transformación y carga)
 
+### Descripción General
+
+El sistema de iStore emplea un flujo de datos automatizado y eficiente que conecta múltiples capas tecnológicas del ecosistema Microsoft. Este flujo asegura la correcta integración, transformación y disponibilidad de los datos para la toma de decisiones empresariales.
+
+#### 1. Origen de Datos
+Los datos se originan principalmente desde Power Apps, donde los usuarios registran operaciones de ventas, información de clientes, equipos entregados bajo modalidad buyback, sedes y métodos de pago. Esta información se guarda de forma estructurada en una base de datos relacional (Azure SQL Database).
+
+#### 2. Pipeline (ETL con Data Factory)
+Microsoft Fabric Data Factory se encarga de la orquestación del flujo ETL (Extracción, Transformación y Carga). Su función principal es extraer datos desde la base operativa en Azure SQL y trasladarlos al Data Warehouse para su posterior análisis.
+
+El pipeline ejecuta los siguientes pasos:
+
+Extracción: Obtiene datos desde tablas transaccionales del sistema (Ventas, Clientes, Modelo, etc.).
+
+Transformación: Realiza limpieza, estandarización y enriquecimiento de los datos mediante Dataflows.
+
+Carga: Inserta los datos transformados en el Fabric Data Warehouse, donde se modelan para su análisis.
+
+#### 3. Notebooks con Python (Automatización y Comunicación)
+
+Al finalizar el pipeline, se ejecuta un Notebook desarrollado en Python. Este script tiene como propósito:
+
+Enviar correos electrónicos de confirmación a los usuarios o administradores.
+
+Confirmar el éxito del proceso ETL o notificar errores si los hubiera.
+
+Garantizar trazabilidad, comunicación efectiva y transparencia en las actualizaciones de datos.
+
+#### 4. Seguridad y Automatización
+
+Todo el proceso está diseñado para ejecutarse de forma automatizada y segura, utilizando credenciales protegidas y programaciones (triggers) que aseguran su ejecución diaria o bajo demanda, reduciendo la intervención manual y errores operativos.
+
+
 El pipeline llamado "pl_update_table" se ejecuta todos los días a las 6:00 a.m.
 
 ![Pipeline: pl-update-table](carpeta-img/Pipeline.jpg)
