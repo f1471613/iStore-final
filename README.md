@@ -91,8 +91,6 @@ Azure SQL: Base de datos en la nube donde se almacenan los datos procesados desd
 
 ### Pantalla de Inicio/Bienvenida
 
-![Inicio - Bienvenida](carpeta-img/PPrincipal.jpg)
-
 #### Propósito:
 
 Servir como punto de entrada principal para los usuarios, centralizando el acceso a todas las funcionalidades del sistema mediante una interfaz clara, visual y fácil de usar.
@@ -107,6 +105,7 @@ Servir como punto de entrada principal para los usuarios, centralizando el acces
 
 - Estructura centralizada para mantener la usabilidad y consistencia en la navegación.
 
+![Inicio - Bienvenida](carpeta-img/PPrincipal.jpg)
 
 
 ### Pantalla de Ventas
