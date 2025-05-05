@@ -119,7 +119,7 @@ Diseño responsive y moderno, con botones representados por íconos e imágenes 
 Posible mensaje de bienvenida personalizado.
 
 Estructura centralizada para mantener la usabilidad y consistencia en la navegación.
--
+
 
 
 Pantalla de Ventas
