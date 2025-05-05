@@ -87,14 +87,17 @@ Pantalla de Buyback
 ## ETL Layer (Capa de extracción, transformación y carga)
 
 El pipeline llamado "pl_update_table" se ejecuta todos los días a las 6:00 a.m.
+
 ![Pipeline: pl-update-table](carpeta-img/Pipeline.jpg)
 
 
 Notebook: NotificarExitoPipeline
+
 ![Notebook: NotificarExitoPipeline](carpeta-img/Notebook.jpg)
 
 
 Correo electrónico de notificación del éxito del pipeline
+
 ![Notebook: NotificarExitoPipeline](carpeta-img/Correo.jpg)
 
 
@@ -103,6 +106,7 @@ Correo electrónico de notificación del éxito del pipeline
 ## Data Warehouse Layer (Capa de almacén de datos)
 
 Vista del Data Warehouse en Microsoft Fabric
+
 ![Warehouse](carpeta-img/DataWarehouse.jpg)
 
 ---
