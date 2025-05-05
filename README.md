@@ -296,7 +296,7 @@ Los informes desarrollados en Power BI constituyen la capa de presentación de e
 
 Esta capa convierte el ecosistema de datos de iStore en una herramienta de toma de decisiones basada en evidencia. La visualización clara, predictiva y contextualizada potencia la eficiencia operativa y la identificación de oportunidades de mejora continua.
 
-Reportes con Microsoft Power BI Service.
+Reportes con Microsoft Power BI:
 
 Informe 1
 ![Power BI](carpeta-img/informe1.jpg)
