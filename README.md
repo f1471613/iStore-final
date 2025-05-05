@@ -63,18 +63,23 @@ Pantalla de bienvenida
 ![Inicio - Bienvenida](carpeta-img/PPrincipal.jpg)
 
 Pantalla de Ventas
+
 ![Ventas](carpeta-img/PVentas.jpg)
 
 Pantalla de Clientes
+
 ![Clientes](carpeta-img/PClientes.jpg)
 
 Pantalla de Sedes
+
 ![Sedes](carpeta-img/PSedes.jpg)
 
 Pantalla de Metodo de Pago
+
 ![PMetodoPago](carpeta-img/PMetodoPago.jpg)
 
 Pantalla de Buyback
+
 ![PBuyback](carpeta-img/Buyback.jpg)
 
 ---
