@@ -102,17 +102,7 @@ Presentación visual con logotipo de la empresa o nombre de la aplicación.
 
 Contenedor con botones o íconos de navegación para acceder a cada una de las pantallas del sistema:
 
-🛒 Ventas
-
-👤 Cliente
-
-🏬 Sede
-
-📱 Modelo
-
-🔁 Buyback
-
-💳 Método de Pago
+🛒 Ventas  👤 Cliente   🏬 Sede   📱 Modelo   🔁 Buyback   💳 Método de Pago
 
 Diseño responsive y moderno, con botones representados por íconos e imágenes que mejoran la experiencia de usuario.
 
