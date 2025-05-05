@@ -126,6 +126,8 @@ Registrar y visualizar las ventas realizadas, incluyendo el detalle del proceso 
 
 - Botones de guardar, editar, eliminar y crear nueva venta.
 
+- También cuenta con un botón de Inicio (Home) que permite al usuario regresar fácilmente a la pantalla principal.
+
 ![Ventas](carpeta-img/PVentas.jpg)
 
 ### Pantalla de Clientes
@@ -143,6 +145,9 @@ Administrar el registro de clientes que realizan compras.
 - Cuadro de búsqueda por nombre o número de documento.
   
 - Botones de guardar, editar, eliminar y crear nuevo cliente.
+
+- También cuenta con un botón de Inicio (Home) que permite al usuario regresar fácilmente a la pantalla principal.
+  
 
 ![Clientes](carpeta-img/PClientes.jpg)
 
