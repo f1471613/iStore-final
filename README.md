@@ -85,6 +85,11 @@ Lista los métodos de pago aceptados (efectivo, tarjeta, transferencia, entre ot
 Azure SQL: Base de datos en la nube donde se almacenan los datos procesados desde múltiples orígenes.
 ![Base de datos relacional](carpeta-img/BD-relacional.jpg)
 
+#### Base de datos
+
+https://github.com/f1471613/iStore-final/tree/main/BaseDatos-iStore
+
+
 ---
 
 ## Application Layer (Capa de aplicación)
