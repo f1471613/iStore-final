@@ -284,13 +284,13 @@ Los informes desarrollados en Power BI constituyen la capa de presentación de e
 
 ### Principales características:
 
-Storytelling con datos: Cada informe sigue una narrativa lógica que facilita la interpretación de los resultados, conectando visualmente las métricas con decisiones estratégicas.
+- Storytelling con datos: Cada informe sigue una narrativa lógica que facilita la interpretación de los resultados, conectando visualmente las métricas con decisiones estratégicas.
 
-Análisis descriptivo y predictivo: Se incluyen indicadores clave de rendimiento (KPIs), tendencias de ventas, segmentación por sede, modelos y métodos de pago. Además, se incorporan atributos y visualizaciones que permiten detectar patrones de comportamiento del cliente.
+- Análisis descriptivo y predictivo: Se incluyen indicadores clave de rendimiento (KPIs), tendencias de ventas, segmentación por sede, modelos y métodos de pago. Además, se incorporan atributos y visualizaciones que permiten detectar patrones de comportamiento del cliente.
 
-Filtros dinámicos e interacción cruzada: Los usuarios pueden interactuar con los informes filtrando por fechas, sedes, estado de equipos buyback, entre otros, lo que enriquece el análisis.
+- Filtros dinámicos e interacción cruzada: Los usuarios pueden interactuar con los informes filtrando por fechas, sedes, estado de equipos buyback, entre otros, lo que enriquece el análisis.
 
-Actualización automatizada: Los informes se alimentan directamente desde el Data Warehouse, que a su vez es actualizado por los pipelines automatizados, garantizando información oportuna y confiable.
+- Actualización automatizada: Los informes se alimentan directamente desde el Data Warehouse, que a su vez es actualizado por los pipelines automatizados, garantizando información oportuna y confiable.
 
 ### Impacto:
 
