@@ -89,7 +89,7 @@ Azure SQL: Base de datos en la nube donde se almacenan los datos procesados desd
 
 ## Application Layer (Capa de aplicación)
 
-Pantalla de Inicio/Bienvenida
+### Pantalla de Inicio/Bienvenida
 
 ![Inicio - Bienvenida](carpeta-img/PPrincipal.jpg)
 
@@ -107,13 +107,11 @@ Contenedor con botones o íconos de navegación para acceder a cada una de las p
 
 Diseño responsive y moderno, con botones representados por íconos e imágenes que mejoran la experiencia de usuario.
 
-Posible mensaje de bienvenida personalizado.
-
 Estructura centralizada para mantener la usabilidad y consistencia en la navegación.
 
 
 
-Pantalla de Ventas
+### Pantalla de Ventas
 
 Propósito: Registrar y visualizar las ventas realizadas, incluyendo el detalle del proceso de buyback.
 
