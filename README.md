@@ -299,23 +299,29 @@ Esta capa convierte el ecosistema de datos de iStore en una herramienta de toma 
 Reportes con Microsoft Power BI:
 
 Informe 1
+
 ![Power BI](carpeta-img/informe1.jpg)
 
 Informe 2
+
 ![Power BI](carpeta-img/informe2.jpg)
 
 Informe 3
+
 ![Power BI](carpeta-img/informe3.jpg)
 
 Informe 4
+
 ![Power BI](carpeta-img/informe4.jpg)
 
 Informe 5
+
 ![Power BI](carpeta-img/informe5.jpg)
 
 ---
 
 # Conclución
+
 Este proyecto evidencia el poder de integrar el ecosistema Microsoft —incluyendo Power Apps, Azure SQL, Microsoft Fabric y Power BI— para construir una solución empresarial robusta, escalable y centrada en el usuario. La arquitectura desarrollada no solo optimiza el flujo de datos y la toma de decisiones, sino que también reduce significativamente los tiempos de desarrollo, mejora la trazabilidad y garantiza una operación eficiente con una experiencia de usuario intuitiva y segura.
 
 Además, permite:
