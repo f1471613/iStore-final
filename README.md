@@ -65,21 +65,22 @@ Registra las transacciones realizadas. Cada venta incluye información del clien
 
 Contiene los datos personales de los compradores: tipo y número de documento, nombre, apellidos, contacto, fecha de nacimiento y estado de suscripción a correos. Permite segmentar y personalizar la atención al cliente.
 
+🏬 Sede
+
+Representa las tiendas físicas de iStore. Se almacena información como nombre, ubicación, departamento, fecha de apertura y si la sede se encuentra activa. Esto permite análisis geográficos y operativos.
+
 📱 Modelo
 
 Almacena la información de los modelos disponibles: familia del producto (iPhone, iPad, etc.), capacidad, color y precio de lista. Esta tabla se relaciona directamente con ventas y buybacks.
 
-♻️ Buyback
+🔁 Buyback
 
 Gestiona el inventario de equipos usados entregados por los clientes. Incluye el ID del modelo, estado físico del equipo (representado por un código) y su valor de recompra, que se descuenta del precio final de la venta.
 
-🧾 Metodo_pago
+💳 Metodo_pago
 
 Lista los métodos de pago aceptados (efectivo, tarjeta, transferencia, entre otros), estandarizando la forma de registrar cada transacción.
 
-🏬 Sede
-
-Representa las tiendas físicas de iStore. Se almacena información como nombre, ubicación, departamento, fecha de apertura y si la sede se encuentra activa. Esto permite análisis geográficos y operativos.
 
 Azure SQL: Base de datos en la nube donde se almacenan los datos procesados desde múltiples orígenes.
 ![Base de datos relacional](carpeta-img/BD-relacional.jpg)
@@ -88,7 +89,34 @@ Azure SQL: Base de datos en la nube donde se almacenan los datos procesados desd
 
 ## Application Layer (Capa de aplicación)
 
-Pantalla de bienvenida
+Pantalla de Inicio/Bienvenida
+
+Propósito:
+Servir como punto de entrada principal para los usuarios, centralizando el acceso a todas las funcionalidades del sistema mediante una interfaz clara, visual y fácil de usar.
+
+Funcionalidades:
+
+Presentación visual con logotipo de la empresa o nombre de la aplicación.
+
+Contenedor con botones o íconos de navegación para acceder a cada una de las pantallas del sistema:
+
+🛒 Ventas
+
+👤 Cliente
+
+🏬 Sede
+
+📱 Modelo
+
+🔁 Buyback
+
+💳 Método de Pago
+
+Diseño responsive y moderno, con botones representados por íconos e imágenes que mejoran la experiencia de usuario.
+
+Posible mensaje de bienvenida personalizado.
+
+Estructura centralizada para mantener la usabilidad y consistencia en la navegación.
 
 ![Inicio - Bienvenida](carpeta-img/PPrincipal.jpg)
 
