@@ -18,7 +18,7 @@ Se emplean tecnologías en la nube como Azure SQL y Microsoft Fabric, permitiend
 - Facilitar el análisis con Power BI y distribución por correo.
 
 
-# 🌐 Solución de Negocio Cloud con Microsoft Fabric, Power Platform y Power BI
+# Solución de Negocio Cloud con Microsoft Fabric, Power Platform y Power BI
 
 Este proyecto implementa una solución de negocio moderna utilizando:
 
