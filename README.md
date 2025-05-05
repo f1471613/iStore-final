@@ -94,6 +94,20 @@ Pantalla de bienvenida
 
 Pantalla de Ventas
 
+Propósito: Registrar y visualizar las ventas realizadas, incluyendo el detalle del proceso de buyback.
+
+Funcionalidades:
+
+-Generación automática del ID de venta con formato estructurado (ej. F002-00001).
+
+-Formulario con selección de cliente, modelo, método de pago y sede.
+
+-Gestión del valor del equipo entregado (buyback), cálculo automático del precio final.
+
+-Soporte para ventas tradicionales y con canje de equipo (bit de buyback).
+
+Botones de guardar, editar, eliminar y crear nueva venta.
+
 ![Ventas](carpeta-img/PVentas.jpg)
 
 Pantalla de Clientes
