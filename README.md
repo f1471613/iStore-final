@@ -51,6 +51,30 @@ Este proyecto implementa una solución de negocio moderna utilizando:
 
 ## Data Layer (Capa de Datos)
 
+Descripción de la Base de Datos – Proyecto iStore
+
+La base de datos del sistema de ventas de iStore ha sido diseñada para gestionar de forma eficiente las operaciones relacionadas con la comercialización de dispositivos Apple, incluyendo el modelo de negocio tipo buyback, donde los clientes pueden entregar su equipo usado como parte de pago en todas nuestras sedes.
+
+Esta base de datos está normalizada y distribuida en seis tablas principales:
+
+🛒 Ventas
+Registra las transacciones realizadas. Cada venta incluye información del cliente, modelo de equipo vendido, precio, forma de pago y, si aplica, los detalles del proceso buyback. Se registran también descuentos aplicados por el valor del equipo entregado.
+
+👤 Clientes
+Contiene los datos personales de los compradores: tipo y número de documento, nombre, apellidos, contacto, fecha de nacimiento y estado de suscripción a correos. Permite segmentar y personalizar la atención al cliente.
+
+📱 Modelo
+Almacena la información de los modelos disponibles: familia del producto (iPhone, iPad, etc.), capacidad, color y precio de lista. Esta tabla se relaciona directamente con ventas y buybacks.
+
+♻️ Buyback
+Gestiona el inventario de equipos usados entregados por los clientes. Incluye el ID del modelo, estado físico del equipo (representado por un código) y su valor de recompra, que se descuenta del precio final de la venta.
+
+🧾 Metodo_pago
+Lista los métodos de pago aceptados (efectivo, tarjeta, transferencia, entre otros), estandarizando la forma de registrar cada transacción.
+
+🏬 Sede
+Representa las tiendas físicas de iStore. Se almacena información como nombre, ubicación, departamento, fecha de apertura y si la sede se encuentra activa. Esto permite análisis geográficos y operativos.
+
 Azure SQL: Base de datos en la nube donde se almacenan los datos procesados desde múltiples orígenes.
 ![Base de datos relacional](carpeta-img/BD-relacional.jpg)
 
