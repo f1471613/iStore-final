@@ -82,7 +82,10 @@ Gestiona el inventario de equipos usados entregados por los clientes. Incluye el
 Lista los métodos de pago aceptados (efectivo, tarjeta, transferencia, entre otros), estandarizando la forma de registrar cada transacción.
 
 
-Azure SQL: Base de datos en la nube donde se almacenan los datos procesados desde múltiples orígenes.
+#### Modelo de datos en Azure SQL: 
+
+La Base de datos en la nube donde se almacenan los datos procesados desde múltiples orígenes.
+
 ![Base de datos relacional](carpeta-img/BD-relacional.jpg)
 
 #### Base de datos
