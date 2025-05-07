@@ -82,7 +82,7 @@ Gestiona el inventario de equipos usados entregados por los clientes. Incluye el
 Lista los métodos de pago aceptados (efectivo, tarjeta, transferencia, entre otros), estandarizando la forma de registrar cada transacción.
 
 
-#### Modelo de datos en Azure SQL: 
+#### Modelo de datos en Azure SQL
 
 La Base de datos en la nube donde se almacenan los datos procesados desde múltiples orígenes.
 
